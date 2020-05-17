@@ -8,12 +8,12 @@
 * [海盗湾](https://link.zhihu.com/?target=http%3A//thepiratebay.se/)
 * [it-ebooks](https://link.zhihu.com/?target=http%3A//it-ebooks.info/)
 ## 资源镜像 类(国内)
-企业
+### 企业
 * [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/) 不注册oracle下载方式
 * [阿里云镜像](https://developer.aliyun.com/mirror/)
 * [网易镜像](http://mirrors.163.com/)
 * [搜狐镜像](http://mirrors.sohu.com/)
-院校
+### 院校
 * [清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/)
 * [北京理工大学](http://mirror.bit.edu.cn/web/)
 * [中科大镜像](http://mirrors.ustc.edu.cn/)
