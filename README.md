@@ -5,6 +5,8 @@
 * 阮一峰的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 * PEP8 编码规范 [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * 编程语言卡片速查表 [Cheatsheet](https://github.com/skywind3000/awesome-cheatsheets)
+* 谷歌 Markdown 文件规范 [Markdown style guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
+
 
 ## 免费电子书下载链接
 * [海盗湾](https://link.zhihu.com/?target=http%3A//thepiratebay.se/)
