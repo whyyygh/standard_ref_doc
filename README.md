@@ -8,11 +8,27 @@
 * [海盗湾](https://link.zhihu.com/?target=http%3A//thepiratebay.se/)
 * [it-ebooks](https://link.zhihu.com/?target=http%3A//it-ebooks.info/)
 ## 资源镜像 类(国内)
-* [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/)
+企业
+* [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/) 不注册oracle下载方式
 * [阿里云镜像](https://developer.aliyun.com/mirror/)
+* [网易镜像](http://mirrors.163.com/)
+* [搜狐镜像](http://mirrors.sohu.com/)
+院校
+* [清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/)
+* [北京理工大学](http://mirror.bit.edu.cn/web/)
+* [中科大镜像](http://mirrors.ustc.edu.cn/)
+* [兰州大学](http://mirror.lzu.edu.cn/)
+* [厦门大学](http://mirrors.xmu.edu.cn/)
+* [上海交通大学](http://ftp.sjtu.edu.cn/)
+* [天津大学](http://mirror.tju.edu.cn/)
+* [西南大学](http://linux.swu.edu.cn/swudownload/Distributions/)
+* [东北大学](http://mirror.neu.edu.cn/)
+* [电子科技大学](http://ubuntu.uestc.edu.cn/)
+* [青岛大学](http://mirror.qdu.edu.cn/)
+
 ## 资源镜像 类(国外)
 ## 个人博客
-### ctian (中国 lizp 语言之神)
+### ctian (中国 lisp 语言之神)
 * [livejournal](https://ctian.livejournal.com/)
 * [ourcoders](https://ourcoders.com/trend/user/1929185323/)
 ### 
