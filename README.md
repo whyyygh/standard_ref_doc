@@ -9,9 +9,11 @@
 * PEP8 编码规范 [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * 编程语言卡片速查表 [Cheatsheet](https://github.com/skywind3000/awesome-cheatsheets)
 * 谷歌 Markdown 文件规范 [Markdown style guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
+
 ## 免费电子书下载链接
 * [海盗湾](https://link.zhihu.com/?target=http%3A//thepiratebay.se/)
 * [it-ebooks](https://link.zhihu.com/?target=http%3A//it-ebooks.info/)
+
 ## 资源镜像 类(国内)
 ### 企业
 * [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/) 不注册oracle下载方式
@@ -34,6 +36,7 @@
 * [电子科技大学](http://ubuntu.uestc.edu.cn/)
 * [青岛大学](http://mirror.qdu.edu.cn/)
 ## 资源镜像 类(国外)
+
 ## 个人博客,致敬大神!
 ### ctian (中国 lisp 语言之神)
 * [livejournal](https://ctian.livejournal.com/)
