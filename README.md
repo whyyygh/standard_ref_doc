@@ -1,5 +1,8 @@
 # standard_ref_doc
 * 收集整理的一些参考标准文档
+## GitHub 内部 类
+* [Gist](https://gist.github.com/discover)
+
 ## 文档编写指北 类
 * 中英文排版参考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * 阮一峰的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
