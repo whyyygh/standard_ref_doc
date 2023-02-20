@@ -16,7 +16,7 @@
 
 ## 资源镜像 类(国内)
 ### 企业
-* [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/) 不注册oracle下载方式
+* [华为云镜像](https://mirrors.huaweicloud.com/java/jdk/) 不注册oracle下载方式 
 * [阿里云镜像](https://developer.aliyun.com/mirror/)
 * [网易镜像](http://mirrors.163.com/)
 * [搜狐镜像](http://mirrors.sohu.com/)
